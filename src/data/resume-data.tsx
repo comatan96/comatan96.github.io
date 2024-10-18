@@ -16,6 +16,7 @@ export const RESUME_DATA = {
   "Results-driven Software Engineer with experience in algorithm development and backend systems. \
 Specializes in designing and implementing optimization algorithms and leading research projects, mainly in the field of Graphs. \
 Experienced in mentoring teams and improving system performance. Committed to leveraging cutting-edge technology to address real-world challenges and deliver impactful solutions. \
+Taking ideas from zero to production,  \
 **GOT A CHALLENGE? I'M IN!💪🏻**",
   avatarUrl: "https://avatars.githubusercontent.com/u/34000779?s=400&u=9ac2e39dcb216332c2890f5a0480724ad9dfdae4&v=4",
   personalWebsiteUrl: "https://comatan96.github.io",
@@ -58,12 +59,12 @@ Experienced in mentoring teams and improving system performance. Committed to le
       description:
         "Designing and developing optimizations algorithms for graph-based problems using Python & Go.",
       bullets: [
-        "**Applied graph theory to model complex GEO-based problems**, representing large datasets as **3D graphs** and developing advanced path optimization algorithms. **Achieved over 60% improvement** in quality during critical project phases and delivered these capabilities as a SaaS solution.",
+        "**Applied graph theory to model complex GEO-based problems,** representing large datasets as **3D graphs** and developing advanced path optimization algorithms. **Achieved over 60% improvement** in quality during critical project phases and delivered these capabilities as a SaaS solution.",
         "**Architected and implemented a scalable microservices system in Go for analyzing and optimizing geometric-based graph topologies.** Enhanced the ability to detect inefficiencies and improve performance in real-time, enabling high accuracy and scalability across large-scale applications.",
         "**Directed the design and implementation of a custom ORM (Object-Relations Mapping) in Python** for the efficient processing, analysis, and visualization of large datasets. Enhanced deep-learning research quality significantly and reduced CAD design **optimization time by 30%.**",
-        "**Developed CLI applications using Golang and Python**, creating efficient tools that **improved workflows by 60%** and boosted productivity in addressing operational tasks.",
-        "**Modernized infrastructure by adopting internal cloud solutions and Docker**, enhancing deployment flexibility and efficiency, and **achieving a 2x improvement** in development time.",
-        "**Mentored and trained new team members**, conducted code reviews and demonstrated effective communication and collaboration skills within a team of 10-15 developers."
+        "**Developed CLI applications using Golang and Python,** creating efficient tools that **improved workflows by 60%** and boosted productivity in addressing operational tasks.",
+        "**Modernized infrastructure by adopting internal cloud solutions and Docker,** enhancing deployment flexibility and efficiency, and **achieving a 2x improvement** in development time.",
+        "**Mentored and trained new team members,** conducted code reviews and demonstrated effective communication and collaboration skills within a team of 10-15 developers."
       ]
     },
     {
