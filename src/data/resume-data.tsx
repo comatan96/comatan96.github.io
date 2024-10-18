@@ -14,8 +14,9 @@ export const RESUME_DATA = {
     "Algorithms & Backend engineer, focused on building optimized solutions for difficult problems!",
   summary:
   "Results-driven Software Engineer with experience in algorithm development and backend systems. \
-    Specializes in designing and implementing optimization algorithms and leading research projects, mainly in the field of Graphs.\
-    Experienced in mentoring teams and improving system performance. Committed to leveraging cutting-edge technology to address real-world challenges and deliver impactful solutions.",
+Specializes in designing and implementing optimization algorithms and leading research projects, mainly in the field of Graphs. \
+Experienced in mentoring teams and improving system performance. Committed to leveraging cutting-edge technology to address real-world challenges and deliver impactful solutions. \
+**GOT A CHALLENGE? I'M IN!💪🏻**",
   avatarUrl: "https://avatars.githubusercontent.com/u/34000779?s=400&u=9ac2e39dcb216332c2890f5a0480724ad9dfdae4&v=4",
   personalWebsiteUrl: "https://comatan96.github.io",
   contact: {
@@ -94,7 +95,7 @@ export const RESUME_DATA = {
         "TA at Introduction to Machine Learning course",
       bullets: [
         "Held regular office hours to assist students with their questions and enhance their understanding of the course material.",
-        "Reviewed and assessed student assignments",
+        "Reviewed and assessed student assignments.",
       ]
     },
 
@@ -110,7 +111,10 @@ export const RESUME_DATA = {
     "Docker",
     "Data analysis",
     "GeoSpatial",
-    "R-Tree"
+    "R-Tree",
+    "Multi-processing",
+    "REST-api",
+    "gRPC",
   ],
 
   libraries: [
@@ -122,6 +126,7 @@ export const RESUME_DATA = {
     "pytorch",
     "fast-api",
     "streamlit",
+    "Echo"
   ],
 
   languages: [
