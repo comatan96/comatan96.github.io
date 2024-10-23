@@ -11,13 +11,9 @@ export const RESUME_DATA = {
   location: "Earth",
   locationLink: null,
   about:
-    "Algorithms & Backend engineer, focused on building optimized solutions for difficult problems!",
+    "Software Engineer driving impactful solutions for complex geo-spatial and data-driven challenges. Skilled in Python, Go, and graph theory, with a focus on scalable cloud architectures and optimized performance.",
   summary:
-  "Results-driven Software Engineer with experience in algorithm development and backend systems. \
-Specializes in designing and implementing optimization algorithms and leading research projects, mainly in the field of Graphs. \
-Experienced in mentoring teams and improving system performance. Committed to leveraging cutting-edge technology to address real-world challenges and deliver impactful solutions. \
-Taking ideas from zero to production,  \
-**GOT A CHALLENGE? I'M IN!💪🏻**",
+  "Software Engineer with 5 years of experience tackling**complex data challenges**through graph theory and geo-spatial analysis. Skilled in designing efficient algorithms for**data processing and manipulation,**leading projects from concept to production. Experienced in mentoring teams, ensuring rigorous testing practices, and implementing robust logging for error management. Passionate about delivering the best solutions possible using cutting-edge technology to create**impactful results.**",
   avatarUrl: "https://avatars.githubusercontent.com/u/34000779?s=400&u=9ac2e39dcb216332c2890f5a0480724ad9dfdae4&v=4",
   personalWebsiteUrl: "https://comatan96.github.io",
   contact: {
@@ -51,7 +47,7 @@ Taking ideas from zero to production,  \
       company: "Intel",
       type: EMPLOYMENT_TYPES.FULL_TIME,
       link: "https://www.intel.com/content/www/us/en/homepage.html",
-      badges: ["Python", "Go", "Graph-theory", "Geospatial data"],
+      badges: ["Python", "Go", "Data analysis", "Graph-theory", "Geospatial data", "CLIs"],
       title: "Algorithms & Backend engineer",
       logo: IntelLogo,
       start: "Aug, 2021",
@@ -60,10 +56,10 @@ Taking ideas from zero to production,  \
         "Designing and developing optimizations algorithms for graph-based problems using Python & Go.",
       bullets: [
         "**Applied graph theory to model complex GEO-based problems,** representing large datasets as **3D graphs** and developing advanced path optimization algorithms. **Achieved over 60% improvement** in quality during critical project phases and delivered these capabilities as a SaaS solution.",
-        "**Architected and implemented a scalable microservices system in Go for analyzing and optimizing geometric-based graph topologies.** Enhanced the ability to detect inefficiencies and improve performance in real-time, enabling high accuracy and scalability across large-scale applications.",
-        "**Directed the design and implementation of a custom ORM (Object-Relations Mapping) in Python** for the efficient processing, analysis, and visualization of large datasets. Enhanced deep-learning research quality significantly and reduced CAD design **optimization time by 30%.**",
-        "**Developed CLI applications using Golang and Python,** creating efficient tools that **improved workflows by 60%** and boosted productivity in addressing operational tasks.",
-        "**Modernized infrastructure by adopting internal cloud solutions and Docker,** enhancing deployment flexibility and efficiency, and **achieving a 2x improvement** in development time.",
+        "**Engineered a comprehensive SaaS solution, including a CLI that interfaces with the API endpoint and backend services for processing large structured datasets.**Designed services that create and analyze graphs, storing results and delivering an overall score (0-1) based on the analysis. This architecture improved data handling and enhanced decision-making capabilities.",
+        "**Designed and implemented a versatile library capable of reading diverse inputs, including large datasets and files that represent CPU layouts**for analysis & research (Deep Learning and Machine Learning). This library significantly enhanced data accessibility and improved the quality of insights for ongoing projects.",
+        "**Developed CLI applications for handling large datasets** delivered in various formats, primarily focused on**data analysis and manipulation**while ensuring seamless communication with other services. These tools streamlined workflows and significantly enhanced productivity in operational tasks.",
+        "**Modernized infrastructure by adopting internal cloud solutions with Kubernetes and Docker,** enhancing deployment flexibility and efficiency, and**achieving a 2x improvement** in development time for serveral key projects.",
         "**Mentored and trained new team members,** conducted code reviews and demonstrated effective communication and collaboration skills within a team of 10-15 developers."
       ]
     },
@@ -79,8 +75,8 @@ Taking ideas from zero to production,  \
       description:
         "Wrapping C++ code for performance optimization with Python & improving development procedures.",
       bullets: [
-        "**Wrapped C/C++ code with SWIG, enabling seamless integration with Python** and extending the functionality of the existing C++ infrastructure for runtime optimization.",
-        "**Developed a GUI application (PyQt5)** that reduced the production release process time by 90% using multi-processing and distirbuted computing power.",
+        "**Integrated C/C++ code with SWIG, facilitating seamless interaction with Python**and enhancing the functionality of the existing C++ infrastructure for improved runtime optimization.",
+        "**Created a GUI application using PyQt5 that streamlined the internal production release process,**achieving a **90% reduction in release time through multi-processing and distributed computing techniques.**",
       ]
     },
     {
