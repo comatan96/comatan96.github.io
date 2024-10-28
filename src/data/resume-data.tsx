@@ -106,6 +106,7 @@ export const RESUME_DATA = {
     "Linux",
     "Windows",
     "Docker",
+    "Kubernetes",
     "Data analysis",
     "GeoSpatial",
     "R-Tree",
